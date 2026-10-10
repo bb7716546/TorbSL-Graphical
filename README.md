@@ -2,7 +2,7 @@ TorbSL-Graphical
 
 A graphical version of TorbSL.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/bb7716546/TorbSL-Graphical/main/TorbSL/screenshot-desktop.png" alt="TorbSL-Graphical Desktop Screenshot" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/bb7716546/TorbSL-Graphical/main/screenshot-desktop.png" alt="TorbSL-Graphical Desktop Screenshot" width="800"> </p>
 
 About
 
